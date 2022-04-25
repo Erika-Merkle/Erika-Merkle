@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erika-Merkle
 - 👀 I’m interested in data strategy.
-- 🌱 I’m currently learning Shapley values.
+- 🌱 I’m currently learning Shapley Values.
 - 💞️ I’m looking to collaborate on Media Analytics.
 - 📫 How to reach me ...
 
